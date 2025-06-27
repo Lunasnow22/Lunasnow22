@@ -1,6 +1,6 @@
 <img src="https://drive.google.com/uc?export=view&id=14TIvTipS4u_CXnvRse95OMEO2rK59UgT" alt="รูปจาก Google Drive" />
 
- สวัดดี ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My ผม LunaSnow(NR)
+ สวัดดี ผม LunaSnow(NR)
 ====================================================================================================================================
 
 ผมกำลังฝึกการใช้งานภาษาต่างๆของคอมอยู่ ผิดๆติได้นะครับ อิอิ
