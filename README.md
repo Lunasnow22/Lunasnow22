@@ -1,5 +1,9 @@
 <img src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2025/06/League-of-Legends-Yunara-the-Unbroken-Faith.jpg" alt="Yunara the Unbroken Faith" />
 
+<img src="[https://drive.google.com/uc?export=view&id=14TIvTipS4u_CXnvRse95OMEO2rK59UgT](https://drive.google.com/file/d/14TIvTipS4u_CXnvRse95OMEO2rK59UgT/view?usp=sharing)"
+     alt="รูปจาก Google Drive"
+     style="max-width: 100%; border-radius: 16px; box-shadow: 0 8px 16px rgba(0,0,0,0.25);" />
+
  สวัดดี ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My ผม LunaSnow(NR)
 ====================================================================================================================================
 
