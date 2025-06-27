@@ -3,6 +3,15 @@
 <div class="crop-container">
   <img src="https://mlpnk72yciwc.i.optimole.com/cqhiHLc.IIZS~2ef73/w:auto/h:auto/q:75/https://bleedingcool.com/wp-content/uploads/2025/06/League-of-Legends-Yunara-the-Unbroken-Faith.jpg" alt="Yunara the Unbroken Faith">
 </div>
+.crop-container {
+  width: 100%;        /* ปรับตามความกว้างที่ต้องการ */
+  height: 500px;      /* ปรับตามความสูงที่ต้องการเห็น (ตัดที่เหลือออก) */
+  overflow: hidden;   /* ซ่อนส่วนเกิน */
+}
+.crop-container img {
+  width: 100%;
+  transform: translateY(-200px);
+}
 
  สวัดดี ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My ผม LunaSnow(NR)
 ====================================================================================================================================
