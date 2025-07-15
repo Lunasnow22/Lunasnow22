@@ -1,4 +1,4 @@
-<img src="[https://drive.google.com/uc?export=view&id=YOUR_IMAGE_ID](https://drive.google.com/file/d/1e4V9vrRFwlNnQhJVVmrGjPjb2lsD5Jf1/view?usp=sharing)" alt="drive.google">
+<img src="https://drive.google.com/file/d/1e4V9vrRFwlNnQhJVVmrGjPjb2lsD5Jf1/view?usp=sharing" alt="drive.google">
 
  สวัดดี ผม LunaSnow(NR)
 ====================================================================================================================================
