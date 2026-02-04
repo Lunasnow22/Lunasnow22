@@ -25,11 +25,11 @@
 
 ### 1. แผนภาพ Use Case (usercase.jpg)
 ![Use Case Diagram](https://drive.google.com/thumbnail?id=1IgYraDIk_NP8_y67XURNXOUGEvJVM7Ms&sz=w800)
-[cite_start]*แผนภาพแสดงขั้นตอนการทำงานของระบบ เช่น การป้อนสมการ และการคำนวณ [cite: 2]*
+
 
 ### 2. หลักฐานการทดสอบ (Screenshot)
 ![Test Case Screenshot](https://drive.google.com/thumbnail?id=1n1V9Lm7C0iPFlxyuwermGOUnI2Xhub7M&sz=w800)
-[cite_start]*ภาพหน้าจอสรุปผลลัพธ์การทดสอบทั้ง 4 กรณี [cite: 1]*
+
 
 ---
 
