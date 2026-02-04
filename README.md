@@ -19,3 +19,25 @@
 ### Socials
 
 <p align="left"> <a href="https://web.facebook.com/nrr.dy.hpp/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a> <a href="https://www.github.com/https://github.com/Lunasnow22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.instagram.com/nrr.dh/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a></p>
+
+
+# รายงานผลการทดสอบระบบเครื่องคิดเลข
+
+### 1. แผนภาพ Use Case (usercase.jpg)
+![Use Case Diagram](https://drive.google.com/thumbnail?id=1IgYraDIk_NP8_y67XURNXOUGEvJVM7Ms&sz=w800)
+[cite_start]*แผนภาพแสดงขั้นตอนการทำงานของระบบ เช่น การป้อนสมการ และการคำนวณ [cite: 2]*
+
+### 2. หลักฐานการทดสอบ (Screenshot)
+![Test Case Screenshot](https://drive.google.com/thumbnail?id=1n1V9Lm7C0iPFlxyuwermGOUnI2Xhub7M&sz=w800)
+[cite_start]*ภาพหน้าจอสรุปผลลัพธ์การทดสอบทั้ง 4 กรณี [cite: 1]*
+
+---
+
+### สรุปผลการทดสอบ (Test Case Summary)
+
+| Case | รายการทดสอบ | Input | Output | สถานะ |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | การบวกเลขจำนวนเต็ม | `1+1` | [cite_start]คำตอบคือ: 2.0 [cite: 1] | ✅ Pass |
+| 2 | การคูณเลขจำนวนเต็ม | `4*2` | [cite_start]คำตอบคือ: 8.0 [cite: 1] | ✅ Pass |
+| 3 | การบวกทศนิยม | `1.5+2.5` | [cite_start]คำตอบคือ: 4.0 [cite: 1] | ✅ Pass |
+| 4 | ตรวจสอบรูปแบบสมการ | `3**2` | [cite_start]ผิดพลาด: รูปแบบสมการไม่ถูกต้อง [cite: 1] | ✅ Pass |
